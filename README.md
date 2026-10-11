@@ -19,6 +19,6 @@ This repository contains the Power BI dashboards I made during my Data Science a
   - Step (time)
   - Fraud Status
   --- 
-**How to open it**
-- Download the PBI_Fraud_Analysis.pbix file.
+## How to open dashboard
+- Download the .pbix file.
 - Open it in Power BI Desktop.
